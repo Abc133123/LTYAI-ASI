@@ -151,14 +151,12 @@ ASI是不是AGI像大语言模型和智能体那样
 
 太对了，就该搞这个，但是呢，我社交不行，项目能力不行 并且现在github开源的类似neuro的项目一般 单纯的就是我太保守看LLM像NLP下的啥也不是
 
-有什么实际有帮助的？
-
-1.算提出洛天依和ASI挂钩
-
-2.给你个优秀的洛天依AI（10周年直播数据集）其他人训练的同人VITSGPT模型玩
-
-VITS-GPT洛天依v2modle
-
-3.了解洛天依确实厉害
-
+有什么实际有帮助的？<br>
+1.算提出洛天依和ASI挂钩<br>
+2.给你个优秀的洛天依AI（10周年直播数据集）其他人训练的同人VITSGPT模型玩<br>
+   VITS-GPT洛天依v2modle：[同人LTYAI-VITS-GPT模型](https://unsignedzhang.cn/archives/323)<br>
+3.了解洛天依确实厉害<br>
+4.
+   QQ频道：[洛天依AI一超级人工智能](https://pd.qq.com/s/ajjkljnbb?b=9)<br>
+   网-群：[ltyai.cn](https://ltyai.cn/qq)<br>
 ​
