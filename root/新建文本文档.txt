@@ -1,0 +1,6 @@
+基础脚本介绍
+1.
+文本（语言）世界模型智能体python架构dome
+项目文档笔记 https://blog.csdn.net/m0_67479857/article/details/158292380
+2.
+C#小魔怔伪病毒
