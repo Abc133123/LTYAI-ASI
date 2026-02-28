@@ -134,6 +134,8 @@ B站UP：Dipon毛羊
 做不了ASI，可以做AGI。现在AGI搞什么世界模型 太前沿 AGI就是前沿
 
 那么智能体 就算是弱人工智能也能用 能用好就是麻！
+https://github.com/Abc133123/LTYAI-Agent
+
 其他
 ASI是不是AGI像大语言模型和智能体那样
 
